@@ -27,7 +27,7 @@
     <title>Problem of class 38</title>
     <link>https://ikuyo.dev/math444notes/intergerbrableAndDiff/proofs/Problem-of-class-38</link>
     <guid>https://ikuyo.dev/math444notes/intergerbrableAndDiff/proofs/Problem-of-class-38</guid>
-    <description>For $$ f(z) = \frac{1}{(z - i)(z + i)} consider $f(z) = \frac{A}{z-i} + \frac{B}{z + i}$ and solve $A, B$ And it&#039;s $f(z) = \frac{-i/2}{z-i} + \frac{i/2}{z+i}$ ...</description>
+    <description>For f(z) = \frac{1}{(z - i)(z + i)} consider f(z) = \frac{A}{z-i} + \frac{B}{z + i} and solve A, B And it’s f(z) = \frac{-i/2}{z-i} + \frac{i/2}{z+i}.</description>
     <pubDate>Mon, 16 Dec 2024 21:04:47 GMT</pubDate>
   </item><item>
     <title>index</title>
