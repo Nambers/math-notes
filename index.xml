@@ -1,1 +1,70 @@
-../quartz/public/index.xml
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Eritque Arcus Math Notes</title>
+      <link>https://ikuyo.dev/math-notes</link>
+      <description>Last 10 notes on Eritque Arcus Math Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Forward-backward substitution</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/Forward-backward-substitution</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/Forward-backward-substitution</guid>
+    <description>...</description>
+    <pubDate>Wed, 05 Mar 2025 01:26:35 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/</guid>
+    <description>This note is outcome of Spring 25 CS 450. Numerical Analysis in UIUC taught by instructor Paul Fischer. The book is Scientific Computing: An Introductory Survey, Revised Second Edition Topics by type recap Type of matrix: Orthogonal matrix Symmetric positive definite matrix (SPD) Band matrix Factorization: LU factorization Cholesky factorization Singular value decomposition QR factorization Topics by Chapter Chapter 1: Chapter 2: LU factorization Symmetric positive definite matrix Cholesky factorization Band matrix Forward-backward substitution Chapter 3 - Linear Least Squares Problem (LLSQ): pseudo inverse (Moore-Penrose Inverse) Singular value decomposition .</description>
+    <pubDate>Wed, 05 Mar 2025 01:26:35 GMT</pubDate>
+  </item><item>
+    <title>Orthogonal matrix</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/Orthogonal-matrix</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/Orthogonal-matrix</guid>
+    <description>A is m\times n Definition A^TA=I Features \det(A) = \pm1 A^{-1} = A^T .</description>
+    <pubDate>Wed, 05 Mar 2025 01:26:34 GMT</pubDate>
+  </item><item>
+    <title>pseudo inverse (Moore-Penrose Inverse)</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/pseudo-inverse-(Moore-Penrose-Inverse)</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/pseudo-inverse-(Moore-Penrose-Inverse)</guid>
+    <description>for m \times n matrix A has no inverse. if rank(A) = n we can say A^+ = (A^TA)^{-1}A^T and cond(A) = ||A^T||_2 \cdot ||A^+||_2. if rank(A) &lt; n, we can say cond(A) = \infty.</description>
+    <pubDate>Wed, 05 Mar 2025 01:26:34 GMT</pubDate>
+  </item><item>
+    <title>Symmetric positive definite matrix</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/Symmetric-positive-definite-matrix</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/Symmetric-positive-definite-matrix</guid>
+    <description>A is m\times n matrix Definition A = A^T and (\forall x \neq 0) x^TAx &gt; 0 Features For all 0 &lt; i &lt; n Diagonal entries a_{ii} &gt; 0 Eigenvalues \lambda_i &gt; 0 Condition number ...</description>
+    <pubDate>Wed, 05 Mar 2025 01:26:34 GMT</pubDate>
+  </item><item>
+    <title>Cholesky factorization</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/Cholesky-factorization</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/Cholesky-factorization</guid>
+    <description>This is a special case for LU factorization (U = L^T). A=LL^T where A m\times n is SPD 2x2 example L = \begin{bmatrix} x &amp; 0 \\ y &amp; z \end{bmatrix} L^T = \begin{bmatrix} x &amp; y \\ 0 &amp; z \end{bmatrix} so A = LL^T = \begin{bmatrix} x^2 &amp; xy \\ xy &amp; y^2 + z^2 \end{bmatrix} \square Costs Only lower triangular part of A is accessed, so only \frac{1}{2} the storage is required.</description>
+    <pubDate>Wed, 05 Mar 2025 01:26:34 GMT</pubDate>
+  </item><item>
+    <title>Band matrix</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/Band-matrix</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/Band-matrix</guid>
+    <description>A is m\times n Definition (\forall |j - i| &gt; b)a_{ij} = 0 Costs Storage/solve cost is \approx 2nb LU factorization cost for Band matrix is \approx 2nb^2 operations ...</description>
+    <pubDate>Wed, 05 Mar 2025 01:26:34 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://ikuyo.dev/math-notes/RealAnalysis/</link>
+    <guid>https://ikuyo.dev/math-notes/RealAnalysis/</guid>
+    <description>This note is outcome of Fall 24 Math 444. Elementary Real Analysis in UIUC, taught by professor Marius Junge. The number after sub-heading indicates the number of class(e.g.</description>
+    <pubDate>Wed, 05 Mar 2025 01:26:34 GMT</pubDate>
+  </item><item>
+    <title>Singular value decomposition</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/Singular-value-decomposition</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/Singular-value-decomposition</guid>
+    <description>A = U\Sigma V^T where A is m\times n U: An m\times m Orthogonal matrix matrix whose columns are the left singular vectors of A. \Sigma: A diagonal m\times n matrix containing the singular values of A in descending order.</description>
+    <pubDate>Wed, 05 Mar 2025 01:26:34 GMT</pubDate>
+  </item><item>
+    <title>QR factorization</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/QR-factorization</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/QR-factorization</guid>
+    <description>A = QR where: A is m\times n R is right upper Q is Orthogonal matrix Steps Householder.</description>
+    <pubDate>Wed, 05 Mar 2025 01:26:33 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
