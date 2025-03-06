@@ -1,36 +1,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/Band-matrix</loc>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH1/</loc>
+    <lastmod>2025-03-06T04:43:44.606Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/Band-matrix</loc>
     <lastmod>2025-03-05T01:26:34.380Z</lastmod>
   </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/Cholesky-factorization</loc>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/Cholesky-factorization</loc>
     <lastmod>2025-03-05T01:26:34.414Z</lastmod>
   </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/Forward-backward-substitution</loc>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/Forward-backward-substitution</loc>
     <lastmod>2025-03-05T01:26:35.018Z</lastmod>
   </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/LU-factorization</loc>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/LU-factorization</loc>
     <lastmod>2025-02-24T05:47:03.337Z</lastmod>
   </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/Orthogonal-matrix</loc>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/Orthogonal-matrix</loc>
     <lastmod>2025-03-05T01:26:34.470Z</lastmod>
   </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/QR-factorization</loc>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/Symmetric-positive-definite-matrix</loc>
+    <lastmod>2025-03-05T01:26:34.434Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/</loc>
+    <lastmod>2025-03-06T04:43:37.152Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH3/QR-factorization</loc>
     <lastmod>2025-03-05T01:26:33.485Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH3/Singular-value-decomposition</loc>
+    <lastmod>2025-03-05T01:26:34.020Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH3/Vandermonde-matrix</loc>
+    <lastmod>2025-03-06T04:01:28.262Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH3/</loc>
+    <lastmod>2025-03-06T04:43:41.895Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH3/pseudo-inverse-(Moore-Penrose-Inverse)</loc>
+    <lastmod>2025-03-05T01:26:34.469Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/Recap</loc>
     <lastmod>2025-03-05T01:26:33.481Z</lastmod>
   </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/Singular-value-decomposition</loc>
-    <lastmod>2025-03-05T01:26:34.020Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/Symmetric-positive-definite-matrix</loc>
-    <lastmod>2025-03-05T01:26:34.434Z</lastmod>
-  </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/</loc>
     <lastmod>2025-03-05T01:26:35.016Z</lastmod>
   </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/pseudo-inverse-(Moore-Penrose-Inverse)</loc>
-    <lastmod>2025-03-05T01:26:34.469Z</lastmod>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</loc>
+    <lastmod>2025-03-05T20:58:51.905Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/RealAnalysis/</loc>
     <lastmod>2025-03-05T01:26:34.377Z</lastmod>
@@ -70,6 +85,9 @@
   </url><url>
     <loc>https://ikuyo.dev/math-notes/RealAnalysis/integrableAndDiff/proofs/Proofs-of-pi</loc>
     <lastmod>2025-02-24T05:47:02.703Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/RealAnalysis/readme</loc>
+    <lastmod>2025-03-05T20:58:51.769Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/RealAnalysis/sequences/Cauchy-sequence</loc>
     <lastmod>2025-02-24T05:47:00.783Z</lastmod>
@@ -166,4 +184,7 @@
   </url><url>
     <loc>https://ikuyo.dev/math-notes/</loc>
     <lastmod>2025-02-24T05:50:45.916Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/readme</loc>
+    <lastmod>2025-03-05T20:58:51.889Z</lastmod>
   </url></urlset>
