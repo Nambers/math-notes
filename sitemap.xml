@@ -23,6 +23,9 @@
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/</loc>
     <lastmod>2025-03-06T04:43:37.152Z</lastmod>
   </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH3/Hessenberg-matrix</loc>
+    <lastmod>2025-03-06T21:01:50.133Z</lastmod>
+  </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH3/QR-factorization</loc>
     <lastmod>2025-03-05T01:26:33.485Z</lastmod>
   </url><url>
@@ -35,14 +38,29 @@
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH3/</loc>
     <lastmod>2025-03-06T04:43:41.895Z</lastmod>
   </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH3/normal-equation</loc>
+    <lastmod>2025-03-06T20:01:37.732Z</lastmod>
+  </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH3/pseudo-inverse-(Moore-Penrose-Inverse)</loc>
     <lastmod>2025-03-05T01:26:34.469Z</lastmod>
   </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/Recap</loc>
-    <lastmod>2025-03-05T01:26:33.481Z</lastmod>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH4/Eigenvalue-and-Eigenvector</loc>
+    <lastmod>2025-03-06T22:26:25.005Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH4/Similarity-Transformation</loc>
+    <lastmod>2025-03-07T00:19:31.840Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH4/companion-matrix</loc>
+    <lastmod>2025-03-06T22:31:44.875Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH4/</loc>
+    <lastmod>2025-03-06T21:01:43.018Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/</loc>
     <lastmod>2025-03-05T01:26:35.016Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/matrix</loc>
+    <lastmod>2025-03-06T23:44:44.171Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</loc>
     <lastmod>2025-03-05T20:58:51.905Z</lastmod>
