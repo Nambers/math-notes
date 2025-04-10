@@ -6,65 +6,65 @@
       <description>Last 10 notes on Eritque Arcus Math Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Similarity Transformation</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH4/Similarity-Transformation</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH4/Similarity-Transformation</guid>
-    <description></description>
-    <pubDate>Fri, 07 Mar 2025 00:19:31 GMT</pubDate>
+    <title>readme</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</guid>
+    <description>This note is outcome of Spring 25 CS 450. Numerical Analysis in UIUC taught by instructor Paul Fischer.</description>
+    <pubDate>Thu, 10 Apr 2025 23:03:37 GMT</pubDate>
   </item><item>
-    <title>matrix</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/matrix</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/matrix</guid>
-    <description>Operations of Matrix Transpose A^T and (AB)^T = B^TA^T Conjugate transpose A^H Determinant \det( \begin{bmatrix} a &amp; b\\ c &amp; d \end{bmatrix} ) = ad - cb \det( \begin{bmatrix} ...</description>
-    <pubDate>Thu, 06 Mar 2025 23:44:44 GMT</pubDate>
+    <title>Newton&#039;s method - multi</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/Newton's-method---multi</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/Newton's-method---multi</guid>
+    <description>Concept x_{k + 1} = x_k - J^{-1}(x_k)f(x_k) where J is Jacobian matrix [J(x_k)]_{ij} = \left[\frac{\partial f(x_i)}{\partial x_j}\right].</description>
+    <pubDate>Thu, 03 Apr 2025 21:43:07 GMT</pubDate>
   </item><item>
-    <title>companion matrix</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH4/companion-matrix</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH4/companion-matrix</guid>
-    <description></description>
-    <pubDate>Thu, 06 Mar 2025 22:31:44 GMT</pubDate>
+    <title>inverse quadratic interpolation</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/inverse-quadratic-interpolation</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/inverse-quadratic-interpolation</guid>
+    <description>Concept for every iteration u=f(b)/f(c), v = f(b)/f(a), w = f(a)/f(c) p = v(w(u-w)(c-b - (1-u)(b-a))) q = (w-1)(u-1)(v-1) then c = a, a = b and b = b + p.</description>
+    <pubDate>Thu, 03 Apr 2025 21:39:42 GMT</pubDate>
   </item><item>
-    <title>Eigenvalue and Eigenvector</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH4/Eigenvalue-and-Eigenvector</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH4/Eigenvalue-and-Eigenvector</guid>
-    <description>Eigenvalues Notation: \lambda solve \det(A - \lambda I) = 0 given by numpy.linalg.eighfor diagonal matrix and numpy.linalg.eig for non. Singular value Notation: \delta \delta^2 = \lambda Eigenvector Ax = \lambda x where x is Eigenvector and \lambda is Eigenvalues.</description>
-    <pubDate>Thu, 06 Mar 2025 22:26:25 GMT</pubDate>
+    <title>Newton&#039;s method</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/Newton's-method</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/Newton's-method</guid>
+    <description>Concept x_{k + 1} = x_k - \frac{f(x_k)}{f&#039;(x_k)} sometime we use g(x) g(x) = x - \frac{f(x)}{f&#039;(x)} and g&#039;(x) = \frac{f(x)f&#039;&#039;(x)}{f&#039;(x)^2} Examples \frac{1}{A} f(x) = A - \frac{1}{x} then f(\frac{1}{A}) = 0.</description>
+    <pubDate>Thu, 03 Apr 2025 21:26:33 GMT</pubDate>
   </item><item>
-    <title>Hessenberg matrix</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH3/Hessenberg-matrix</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH3/Hessenberg-matrix</guid>
-    <description> Upper: A is upper triangular with one additional nonzero diagonal below the main one: i &gt; j + 1 \Longrightarrow A_{ij} = 0 Lower: .</description>
-    <pubDate>Thu, 06 Mar 2025 21:01:50 GMT</pubDate>
+    <title>Aitken</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/Aitken</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/Aitken</guid>
+    <description>Concept y_{k+2} = x_{k+2} - \frac{\Delta_2^2}{\Delta_2 - \Delta_1} where \Delta_1 = x_{k + 1} - x_k \Delta_2 = x_{k + 2} - x_{k + 1} this method is used to accelerating linearly converge for k = 0, 2, 4, ..</description>
+    <pubDate>Thu, 03 Apr 2025 21:13:16 GMT</pubDate>
   </item><item>
-    <title>index</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH4/</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH4/</guid>
-    <description></description>
-    <pubDate>Thu, 06 Mar 2025 21:01:43 GMT</pubDate>
+    <title>multipicity</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/multipicity</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/multipicity</guid>
+    <description>If f(x^*) = f&#039;(x^*) = f&#039;&#039;(x^*) = \cdots = f^{(m - 1)}(x^*) = 0 and f^{(m)}(x^*) \neq 0, we can say x^* is a solution with multiplicity of m.</description>
+    <pubDate>Thu, 03 Apr 2025 21:03:40 GMT</pubDate>
   </item><item>
-    <title>normal equation</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH3/normal-equation</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH3/normal-equation</guid>
-    <description>Definition Solution is x = (A^TA)^{-1}A^Tb If (A^TA)^{-1} such inverse not exists, we need to use x \approx A^+b from pseudo inverse (Moore-Penrose Inverse) to solve it ...</description>
-    <pubDate>Thu, 06 Mar 2025 20:01:37 GMT</pubDate>
+    <title>bisection</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/bisection</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/bisection</guid>
+    <description>Concept m = a + (b - a )/2 and if sign(f(a)) == sign(f(m)), a = m else b = m rate it should has linear convergence rate since the interval cut half every iteration and C = 0.5.</description>
+    <pubDate>Thu, 03 Apr 2025 20:38:03 GMT</pubDate>
   </item><item>
-    <title>index</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH1/</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH1/</guid>
-    <description></description>
-    <pubDate>Thu, 06 Mar 2025 04:43:44 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH3/</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH3/</guid>
-    <description></description>
-    <pubDate>Thu, 06 Mar 2025 04:43:41 GMT</pubDate>
+    <title>convergence rate</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/convergence-rate</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/convergence-rate</guid>
+    <description>sequence converges rate if \lim_{k\to \infty} \frac{||e_{k+1}||}{||e_k||^r} = C where C is finite nonzero constant, we can say it converges with rate r and r = 1: linear (C &lt; 1) r &gt; 1: super linear r = 2: quadratic .</description>
+    <pubDate>Thu, 03 Apr 2025 20:36:09 GMT</pubDate>
   </item><item>
     <title>index</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/</guid>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/</guid>
     <description></description>
-    <pubDate>Thu, 06 Mar 2025 04:43:37 GMT</pubDate>
+    <pubDate>Thu, 03 Apr 2025 20:10:03 GMT</pubDate>
+  </item><item>
+    <title>Krylov subspace</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH4/Krylov-subspace</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH4/Krylov-subspace</guid>
+    <description> shifting does not improve Lanczos / Arnoldi Concept x_k = Ax_{k-1} \lambda = \frac{x^T_kAx_k}{x^T_kx_k} Lanczos iteration for symmetric import numpy as np def lanczos_iter(A, tol=1e-8): n = A.shape[0] # q0 = np.zeros(n) # q0 = 0 # b0 = 0 # b0 = 0 x0 = np.random.rand(n) q1 = x0 / np.linalg.norm(x0) ...</description>
+    <pubDate>Thu, 03 Apr 2025 20:09:20 GMT</pubDate>
   </item>
     </channel>
   </rss>
