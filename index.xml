@@ -7,6 +7,12 @@
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>readme</title>
+    <link>https://ikuyo.dev/math-notes/readme</link>
+    <guid>https://ikuyo.dev/math-notes/readme</guid>
+    <description> This part of website are some random notes I made for some advance mathematics courses I took.</description>
+    <pubDate>Fri, 11 Apr 2025 21:03:30 GMT</pubDate>
+  </item><item>
+    <title>readme</title>
     <link>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</link>
     <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</guid>
     <description>This note is outcome of Spring 25 CS 450. Numerical Analysis in UIUC taught by instructor Paul Fischer.</description>
@@ -30,9 +36,9 @@
     <description>Concept x_{k + 1} = x_k - \frac{f(x_k)}{f&#039;(x_k)} sometime we use g(x) g(x) = x - \frac{f(x)}{f&#039;(x)} and g&#039;(x) = \frac{f(x)f&#039;&#039;(x)}{f&#039;(x)^2} Examples \frac{1}{A} f(x) = A - \frac{1}{x} then f(\frac{1}{A}) = 0.</description>
     <pubDate>Thu, 03 Apr 2025 21:26:33 GMT</pubDate>
   </item><item>
-    <title>Aitken</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/Aitken</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/Aitken</guid>
+    <title>Aitken&#039;s method</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/Aitken's-method</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/Aitken's-method</guid>
     <description>Concept y_{k+2} = x_{k+2} - \frac{\Delta_2^2}{\Delta_2 - \Delta_1} where \Delta_1 = x_{k + 1} - x_k \Delta_2 = x_{k + 2} - x_{k + 1} this method is used to accelerating linearly converge for k = 0, 2, 4, ..</description>
     <pubDate>Thu, 03 Apr 2025 21:13:16 GMT</pubDate>
   </item><item>
@@ -59,12 +65,6 @@
     <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/</guid>
     <description></description>
     <pubDate>Thu, 03 Apr 2025 20:10:03 GMT</pubDate>
-  </item><item>
-    <title>Krylov subspace</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH4/Krylov-subspace</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH4/Krylov-subspace</guid>
-    <description> shifting does not improve Lanczos / Arnoldi Concept x_k = Ax_{k-1} \lambda = \frac{x^T_kAx_k}{x^T_kx_k} Lanczos iteration for symmetric import numpy as np def lanczos_iter(A, tol=1e-8): n = A.shape[0] # q0 = np.zeros(n) # q0 = 0 # b0 = 0 # b0 = 0 x0 = np.random.rand(n) q1 = x0 / np.linalg.norm(x0) ...</description>
-    <pubDate>Thu, 03 Apr 2025 20:09:20 GMT</pubDate>
   </item>
     </channel>
   </rss>
