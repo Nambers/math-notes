@@ -6,65 +6,65 @@
       <description>Last 10 notes on Eritque Arcus Math Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>readme</title>
-    <link>https://ikuyo.dev/math-notes/readme</link>
-    <guid>https://ikuyo.dev/math-notes/readme</guid>
-    <description> This part of website are some random notes I made for some advance mathematics courses I took.</description>
-    <pubDate>Fri, 11 Apr 2025 21:03:30 GMT</pubDate>
+    <title>Lagrange Interpolation</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Lagrange-Interpolation</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Lagrange-Interpolation</guid>
+    <description>Concept The basis function defined as l_j(t_i) = \delta_{ij} = \begin{cases} 1 &amp;, i = j\\ 0 &amp;, i \neq j \end{cases} where t_i is given point then p_{n-1}(t) = y_1l_1(t) + y_2l_2(t) + ··· + y_nl_n(t) Also we can define l_j as l_j(t) = \prod_{i\neq j}^n \frac{t - t_i}{t_j - t_i} Codes Lagrange...</description>
+    <pubDate>Thu, 24 Apr 2025 23:11:12 GMT</pubDate>
   </item><item>
     <title>readme</title>
     <link>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</link>
     <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</guid>
     <description>This note is outcome of Spring 25 CS 450. Numerical Analysis in UIUC taught by instructor Paul Fischer.</description>
-    <pubDate>Thu, 10 Apr 2025 23:03:37 GMT</pubDate>
+    <pubDate>Thu, 24 Apr 2025 22:59:11 GMT</pubDate>
   </item><item>
-    <title>Newton&#039;s method - multi</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/Newton's-method---multi</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/Newton's-method---multi</guid>
-    <description>Concept x_{k + 1} = x_k - J^{-1}(x_k)f(x_k) where J is Jacobian matrix [J(x_k)]_{ij} = \left[\frac{\partial f(x_i)}{\partial x_j}\right].</description>
-    <pubDate>Thu, 03 Apr 2025 21:43:07 GMT</pubDate>
+    <title>orthogonal polynomials</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/orthogonal-polynomials</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/orthogonal-polynomials</guid>
+    <description>Concept basically in order to use orthogonal polynomials for interpolation, we setup the orthogonal polynomial coefficient matrix with selected polynomials and solve it for coefficients.</description>
+    <pubDate>Thu, 24 Apr 2025 22:58:09 GMT</pubDate>
   </item><item>
-    <title>inverse quadratic interpolation</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/inverse-quadratic-interpolation</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/inverse-quadratic-interpolation</guid>
-    <description>Concept for every iteration u=f(b)/f(c), v = f(b)/f(a), w = f(a)/f(c) p = v(w(u-w)(c-b - (1-u)(b-a))) q = (w-1)(u-1)(v-1) then c = a, a = b and b = b + p.</description>
-    <pubDate>Thu, 03 Apr 2025 21:39:42 GMT</pubDate>
-  </item><item>
-    <title>Newton&#039;s method</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/Newton's-method</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/Newton's-method</guid>
-    <description>Concept x_{k + 1} = x_k - \frac{f(x_k)}{f&#039;(x_k)} sometime we use g(x) g(x) = x - \frac{f(x)}{f&#039;(x)} and g&#039;(x) = \frac{f(x)f&#039;&#039;(x)}{f&#039;(x)^2} Examples \frac{1}{A} f(x) = A - \frac{1}{x} then f(\frac{1}{A}) = 0.</description>
-    <pubDate>Thu, 03 Apr 2025 21:26:33 GMT</pubDate>
-  </item><item>
-    <title>Aitken&#039;s method</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/Aitken's-method</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/Aitken's-method</guid>
-    <description>Concept y_{k+2} = x_{k+2} - \frac{\Delta_2^2}{\Delta_2 - \Delta_1} where \Delta_1 = x_{k + 1} - x_k \Delta_2 = x_{k + 2} - x_{k + 1} this method is used to accelerating linearly converge for k = 0, 2, 4, ..</description>
-    <pubDate>Thu, 03 Apr 2025 21:13:16 GMT</pubDate>
-  </item><item>
-    <title>multipicity</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/multipicity</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/multipicity</guid>
-    <description>If f(x^*) = f&#039;(x^*) = f&#039;&#039;(x^*) = \cdots = f^{(m - 1)}(x^*) = 0 and f^{(m)}(x^*) \neq 0, we can say x^* is a solution with multiplicity of m.</description>
-    <pubDate>Thu, 03 Apr 2025 21:03:40 GMT</pubDate>
-  </item><item>
-    <title>bisection</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/bisection</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/bisection</guid>
-    <description>Concept m = a + (b - a )/2 and if sign(f(a)) == sign(f(m)), a = m else b = m rate it should has linear convergence rate since the interval cut half every iteration and C = 0.5.</description>
-    <pubDate>Thu, 03 Apr 2025 20:38:03 GMT</pubDate>
-  </item><item>
-    <title>convergence rate</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/convergence-rate</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/convergence-rate</guid>
-    <description>sequence converges rate if \lim_{k\to \infty} \frac{||e_{k+1}||}{||e_k||^r} = C where C is finite nonzero constant, we can say it converges with rate r and r = 1: linear (C &lt; 1) r &gt; 1: super linear r = 2: quadratic .</description>
-    <pubDate>Thu, 03 Apr 2025 20:36:09 GMT</pubDate>
+    <title>basis function</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/basis-function</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/basis-function</guid>
+    <description>Concept Interpolating function f can be define as linear combination of basis functions f(t) = \sum_{j=1}^n x_j\phi_j(t) Fourier basis comprising sines and coses.</description>
+    <pubDate>Thu, 24 Apr 2025 22:44:46 GMT</pubDate>
   </item><item>
     <title>index</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/</guid>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/</guid>
     <description></description>
-    <pubDate>Thu, 03 Apr 2025 20:10:03 GMT</pubDate>
+    <pubDate>Thu, 24 Apr 2025 22:27:19 GMT</pubDate>
+  </item><item>
+    <title>Splines</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Splines</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Splines</guid>
+    <description>Concept Splines is a piece-wise polynomial s(x)\vert_{\Omega_j} = a_j + b_jx + c_jx^2 + d_jx^3 + \dots where \Omega_j is j-th domain, every domain has their own function.</description>
+    <pubDate>Thu, 24 Apr 2025 22:22:51 GMT</pubDate>
+  </item><item>
+    <title>Chebyshev Polynomials</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Chebyshev-Polynomials</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Chebyshev-Polynomials</guid>
+    <description>Concept started with T_0 = 1 and T_1 = x T_{k + 1}(x) = 2xT_k(x) - T_{k - 1}(x) Weight for first-kind Chebyshev Polynomials w(t)=\sqrt{1-t^2}.</description>
+    <pubDate>Thu, 24 Apr 2025 21:50:58 GMT</pubDate>
+  </item><item>
+    <title>Legendre Polynomials</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Legendre-Polynomials</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Legendre-Polynomials</guid>
+    <description>Concept started with P_0 = 1 and P_1 = x, P_{k + 1}(x) = \frac{2k + 1}{k + 1}tP_k(t) - \frac{k}{k + 1}P_{k - 1}(t) Weight w(x) = 1.</description>
+    <pubDate>Thu, 24 Apr 2025 21:50:14 GMT</pubDate>
+  </item><item>
+    <title>weighted inner-product</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/weighted-inner-product</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/weighted-inner-product</guid>
+    <description>(f,g)_w = \int^1_{-1} w(x)f(x)g(x)dx and associated norm ||f||_w = \sqrt{(f,f)_w}.</description>
+    <pubDate>Thu, 24 Apr 2025 21:49:44 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/</guid>
+    <description></description>
+    <pubDate>Thu, 24 Apr 2025 19:44:20 GMT</pubDate>
   </item>
     </channel>
   </rss>
