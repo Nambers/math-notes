@@ -6,65 +6,65 @@
       <description>Last 10 notes on Eritque Arcus Math Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Lagrange Interpolation</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Lagrange-Interpolation</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Lagrange-Interpolation</guid>
-    <description>Concept The basis function defined as l_j(t_i) = \delta_{ij} = \begin{cases} 1 &amp;, i = j\\ 0 &amp;, i \neq j \end{cases} where t_i is given point then p_{n-1}(t) = y_1l_1(t) + y_2l_2(t) + ··· + y_nl_n(t) Also we can define l_j as l_j(t) = \prod_{i\neq j}^n \frac{t - t_i}{t_j - t_i} Codes Lagrange...</description>
-    <pubDate>Thu, 24 Apr 2025 23:11:12 GMT</pubDate>
+    <title>Runge-Kutta method</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/Runge-Kutta-method</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/Runge-Kutta-method</guid>
+    <description>Definition can be either implicit or explicit y_{k + 1} = y_k + \int^{t_{k+1}}_{t_k} f(t,y)dt explicit RK4 the most common Runge-Kutta scheme, 4-th order y_{k + 1} = y_k + \frac{h_k}{6}(k_1 + k_2 + k_3 + k_4).</description>
+    <pubDate>Tue, 13 May 2025 17:25:12 GMT</pubDate>
   </item><item>
     <title>readme</title>
     <link>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</link>
     <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</guid>
     <description>This note is outcome of Spring 25 CS 450. Numerical Analysis in UIUC taught by instructor Paul Fischer.</description>
-    <pubDate>Thu, 24 Apr 2025 22:59:11 GMT</pubDate>
+    <pubDate>Tue, 13 May 2025 17:22:26 GMT</pubDate>
   </item><item>
-    <title>orthogonal polynomials</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/orthogonal-polynomials</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/orthogonal-polynomials</guid>
-    <description>Concept basically in order to use orthogonal polynomials for interpolation, we setup the orthogonal polynomial coefficient matrix with selected polynomials and solve it for coefficients.</description>
-    <pubDate>Thu, 24 Apr 2025 22:58:09 GMT</pubDate>
+    <title>Backward Euler</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/Backward-Euler</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/Backward-Euler</guid>
+    <description>Definition a implicit method y_{k+1} = y_k + \Delta tf(t_{k+1},y_{k+1}) Stability unlike Forward Euler, It’s stable under any step h &gt; 0.</description>
+    <pubDate>Tue, 13 May 2025 17:18:52 GMT</pubDate>
   </item><item>
-    <title>basis function</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/basis-function</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/basis-function</guid>
-    <description>Concept Interpolating function f can be define as linear combination of basis functions f(t) = \sum_{j=1}^n x_j\phi_j(t) Fourier basis comprising sines and coses.</description>
-    <pubDate>Thu, 24 Apr 2025 22:44:46 GMT</pubDate>
+    <title>Trapezoidal Rule</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/Trapezoidal-Rule</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/Trapezoidal-Rule</guid>
+    <description>Definition a implicit method y_{k + 1} = y_k + h\frac{f(t_k,y_k) + f(t_{k + 1}, y_{k + 1})}{2} Stability It’s sable if |\frac{1 + \frac{h\lambda}{2}}{1-\frac{h\lambda}{2}}| \leq 1 for every \lambda as Eigenvalue.</description>
+    <pubDate>Tue, 13 May 2025 17:18:46 GMT</pubDate>
   </item><item>
-    <title>index</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/</guid>
-    <description></description>
-    <pubDate>Thu, 24 Apr 2025 22:27:19 GMT</pubDate>
-  </item><item>
-    <title>Splines</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Splines</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Splines</guid>
-    <description>Concept Splines is a piece-wise polynomial s(x)\vert_{\Omega_j} = a_j + b_jx + c_jx^2 + d_jx^3 + \dots where \Omega_j is j-th domain, every domain has their own function.</description>
-    <pubDate>Thu, 24 Apr 2025 22:22:51 GMT</pubDate>
-  </item><item>
-    <title>Chebyshev Polynomials</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Chebyshev-Polynomials</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Chebyshev-Polynomials</guid>
-    <description>Concept started with T_0 = 1 and T_1 = x T_{k + 1}(x) = 2xT_k(x) - T_{k - 1}(x) Weight for first-kind Chebyshev Polynomials w(t)=\sqrt{1-t^2}.</description>
-    <pubDate>Thu, 24 Apr 2025 21:50:58 GMT</pubDate>
-  </item><item>
-    <title>Legendre Polynomials</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Legendre-Polynomials</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Legendre-Polynomials</guid>
-    <description>Concept started with P_0 = 1 and P_1 = x, P_{k + 1}(x) = \frac{2k + 1}{k + 1}tP_k(t) - \frac{k}{k + 1}P_{k - 1}(t) Weight w(x) = 1.</description>
-    <pubDate>Thu, 24 Apr 2025 21:50:14 GMT</pubDate>
-  </item><item>
-    <title>weighted inner-product</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/weighted-inner-product</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/weighted-inner-product</guid>
-    <description>(f,g)_w = \int^1_{-1} w(x)f(x)g(x)dx and associated norm ||f||_w = \sqrt{(f,f)_w}.</description>
-    <pubDate>Thu, 24 Apr 2025 21:49:44 GMT</pubDate>
+    <title>Forward Euler</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/Forward-Euler</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/Forward-Euler</guid>
+    <description>Definition y_{k+1} = y_k + \Delta tf(t_k,y_k) when it’s linear, we can say y_{k + 1} = y_k + \Delta t\lambda y_k = y_k(1 + \Delta t\lambda) Stability It’s stable only if all \lambda: |1 + h\lambda_i| \leq 1.</description>
+    <pubDate>Tue, 13 May 2025 11:31:29 GMT</pubDate>
   </item><item>
     <title>index</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/</guid>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/</guid>
     <description></description>
-    <pubDate>Thu, 24 Apr 2025 19:44:20 GMT</pubDate>
+    <pubDate>Tue, 13 May 2025 11:22:23 GMT</pubDate>
+  </item><item>
+    <title>Gaussian Quadrature</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/Gaussian-Quadrature</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/Gaussian-Quadrature</guid>
+    <description>implementation evaluation first we need to transform from [-1,1] to [a,b] which required to update points and weights x_i = \frac{b-a}{2} \xi_i + \frac{a+b}{2} where x_i is the new mapped point and \xi_i is the old one w_i = \frac{b-a}{2}w_i I = \int^b_a f dx = \sum\frac{b-a}{2}w_if(x_i) exact for n...</description>
+    <pubDate>Tue, 13 May 2025 11:16:00 GMT</pubDate>
+  </item><item>
+    <title>Newton-Cotes Quadrature</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/Newton-Cotes-Quadrature</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/Newton-Cotes-Quadrature</guid>
+    <description>implementation rules Midpoint rule M(f) = (b-a)f(\frac{a + b}{2}) Trapezoidal rule T(f) = \frac{b-a}{2}f(f(a) + f(b)) Simpson’s rule S(f) = \frac{b-a}{6}(f(a) + 5f(m) + f(b)) exact for n node up to n degree.</description>
+    <pubDate>Tue, 13 May 2025 10:56:32 GMT</pubDate>
+  </item><item>
+    <title>Quadrature</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/Quadrature</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/Quadrature</guid>
+    <description>Concept basically \int^b_a f(x) = \sum_i^n w_i(x)f(x_i) stability upper bound |\Delta Q| \leq ||w||_1 \max|\Delta f_i| Implementation Newton-Cotes Quadrature use uniformly spaced nodes, Gaussian Quadrature use optimal picked nodes.</description>
+    <pubDate>Tue, 13 May 2025 10:49:43 GMT</pubDate>
+  </item><item>
+    <title>basic difference</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/basic-difference</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/basic-difference</guid>
+    <description>General f&#039;(x) \approx c_1f(x + h) + c_2f(x) + c_3f(x - h) by Taylor expansion f(x + h) = f(x) + hf&#039;(x) + \frac{h^2}{2!}f&#039;&#039;(x) + \cdots + \frac{h^n}{n!}f^{(n)}(x) f(x - h) = f(x) - hf&#039;(x) + \frac{h^2}{2!}f&#039;&#039;(x) - \cdots + \frac{h^n}{n!}f^{(n)}(x) Forward difference ...</description>
+    <pubDate>Tue, 13 May 2025 09:44:54 GMT</pubDate>
   </item>
     </channel>
   </rss>
