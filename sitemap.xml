@@ -1,4 +1,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/CH2/exact-equations</loc>
+    <lastmod>2025-05-15T17:27:54.463Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/CH2/integrating-factor</loc>
+    <lastmod>2025-05-15T17:19:01.734Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/Wronskian-determinant</loc>
+    <lastmod>2025-05-15T16:05:40.049Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/fundamental-set</loc>
+    <lastmod>2025-05-15T17:09:42.951Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/order-reduce-by-substitution</loc>
+    <lastmod>2025-05-15T16:24:43.301Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/reduction-of-Order</loc>
+    <lastmod>2025-05-15T17:35:32.072Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/repeated-root</loc>
+    <lastmod>2025-05-15T16:38:18.002Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/solution-difference</loc>
+    <lastmod>2025-05-15T17:05:35.651Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/variation-of-parameters</loc>
+    <lastmod>2025-05-15T17:21:55.552Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/CH4/Abel's-identity</loc>
+    <lastmod>2025-05-15T17:40:57.543Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/CH4/characteristic-polynomial</loc>
+    <lastmod>2025-05-15T16:15:00.164Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/CH4/linear-differential-operator</loc>
+    <lastmod>2025-05-15T16:12:29.736Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/CH5/radius-of-convergence</loc>
+    <lastmod>2025-05-15T15:47:23.135Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/CH5/series-solutions</loc>
+    <lastmod>2025-05-15T15:53:23.309Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/CH7/systems-of-first-order-ODEs</loc>
+    <lastmod>2025-05-15T18:25:57.197Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/CH9/stability</loc>
+    <lastmod>2025-05-15T15:31:44.911Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/</loc>
+    <lastmod>2025-05-15T15:05:54.940Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/readme</loc>
+    <lastmod>2025-05-15T17:40:22.694Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/recap</loc>
+    <lastmod>2025-05-15T14:49:47.108Z</lastmod>
+  </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH1/</loc>
     <lastmod>2025-03-06T04:43:44.606Z</lastmod>
   </url><url>
@@ -90,10 +147,10 @@
     <lastmod>2025-04-11T21:37:33.991Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/Newton's-method---multi</loc>
-    <lastmod>2025-05-13T02:57:22.072Z</lastmod>
+    <lastmod>2025-05-15T14:43:52.684Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/Newton's-method</loc>
-    <lastmod>2025-04-11T22:08:16.861Z</lastmod>
+    <lastmod>2025-05-15T15:34:25.276Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/Secant's-method</loc>
     <lastmod>2025-04-11T22:07:50.069Z</lastmod>
@@ -110,14 +167,14 @@
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/inverse-quadratic-interpolation</loc>
     <lastmod>2025-04-03T21:39:42.226Z</lastmod>
   </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/multipicity</loc>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH5/multiplicity</loc>
     <lastmod>2025-04-11T22:07:19.719Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/Hessian-matrix</loc>
     <lastmod>2025-04-11T22:38:19.168Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/Lagrangian-function</loc>
-    <lastmod>2025-04-24T19:39:51.585Z</lastmod>
+    <lastmod>2025-05-15T14:43:52.698Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/coercive</loc>
     <lastmod>2025-04-11T22:26:39.068Z</lastmod>
@@ -153,7 +210,7 @@
     <lastmod>2025-04-12T01:29:25.726Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/Nonlinear-Least-Squares</loc>
-    <lastmod>2025-04-12T01:41:07.307Z</lastmod>
+    <lastmod>2025-05-15T14:43:52.711Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/Steepest-Descent-Method</loc>
     <lastmod>2025-04-24T23:26:00.037Z</lastmod>
@@ -240,10 +297,10 @@
     <lastmod>2025-03-05T20:55:25.200Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/matrix</loc>
-    <lastmod>2025-04-24T18:11:00.537Z</lastmod>
+    <lastmod>2025-05-15T15:57:17.088Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</loc>
-    <lastmod>2025-05-13T17:22:26.151Z</lastmod>
+    <lastmod>2025-05-15T15:34:25.315Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/RealAnalysis/</loc>
     <lastmod>2025-03-05T20:55:38.617Z</lastmod>
@@ -384,5 +441,5 @@
     <lastmod>2025-03-05T20:55:09.499Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/readme</loc>
-    <lastmod>2025-04-11T21:03:30.984Z</lastmod>
+    <lastmod>2025-05-15T15:04:13.997Z</lastmod>
   </url></urlset>

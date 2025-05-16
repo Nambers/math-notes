@@ -6,65 +6,65 @@
       <description>Last 10 notes on Eritque Arcus Math Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Runge-Kutta method</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/Runge-Kutta-method</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/Runge-Kutta-method</guid>
-    <description>Definition can be either implicit or explicit y_{k + 1} = y_k + \int^{t_{k+1}}_{t_k} f(t,y)dt explicit RK4 the most common Runge-Kutta scheme, 4-th order y_{k + 1} = y_k + \frac{h_k}{6}(k_1 + k_2 + k_3 + k_4).</description>
-    <pubDate>Tue, 13 May 2025 17:25:12 GMT</pubDate>
+    <title>systems of first order ODEs</title>
+    <link>https://ikuyo.dev/math-notes/DifferentialEquation/CH7/systems-of-first-order-ODEs</link>
+    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/CH7/systems-of-first-order-ODEs</guid>
+    <description>\vec x&#039; = A\vec x briefly we need to find all Eigenvectors: find all Eigenvalues of the coefficient matrix A by solving \det(A - \lambda I) for each \lambda_i find (A - \lambda_i I)\vec \xi_i = \vec 0 where I is identify matrix and \vec\xi_i is correspond Eigenvector if the \lambda_i is repeate...</description>
+    <pubDate>Thu, 15 May 2025 18:25:57 GMT</pubDate>
+  </item><item>
+    <title>Abel&#039;s identity</title>
+    <link>https://ikuyo.dev/math-notes/DifferentialEquation/CH4/Abel's-identity</link>
+    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/CH4/Abel's-identity</guid>
+    <description>for y&#039;&#039; + p(t) y&#039; + q(t) y = 0 W(t) = W(y_1, \dots, y_n)(t) = c e^{-\int p(t)dt} where W is Wronskian determinant and c is a constant by W at convenient point.</description>
+    <pubDate>Thu, 15 May 2025 17:40:57 GMT</pubDate>
   </item><item>
     <title>readme</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</guid>
-    <description>This note is outcome of Spring 25 CS 450. Numerical Analysis in UIUC taught by instructor Paul Fischer.</description>
-    <pubDate>Tue, 13 May 2025 17:22:26 GMT</pubDate>
+    <link>https://ikuyo.dev/math-notes/DifferentialEquation/readme</link>
+    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/readme</guid>
+    <description>This note is outcome of SP 2025 MATH 441. Differential Equations in UIUC, taught by professor Nikolaos Tzirakis.</description>
+    <pubDate>Thu, 15 May 2025 17:40:22 GMT</pubDate>
   </item><item>
-    <title>Backward Euler</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/Backward-Euler</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/Backward-Euler</guid>
-    <description>Definition a implicit method y_{k+1} = y_k + \Delta tf(t_{k+1},y_{k+1}) Stability unlike Forward Euler, It’s stable under any step h &gt; 0.</description>
-    <pubDate>Tue, 13 May 2025 17:18:52 GMT</pubDate>
+    <title>reduction of Order</title>
+    <link>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/reduction-of-Order</link>
+    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/reduction-of-Order</guid>
+    <description>find another linearly independent solution based on a known solution known y_1(t) as solution, take y_2(t) = u(t)y_1(t) as new solution.</description>
+    <pubDate>Thu, 15 May 2025 17:35:32 GMT</pubDate>
   </item><item>
-    <title>Trapezoidal Rule</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/Trapezoidal-Rule</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/Trapezoidal-Rule</guid>
-    <description>Definition a implicit method y_{k + 1} = y_k + h\frac{f(t_k,y_k) + f(t_{k + 1}, y_{k + 1})}{2} Stability It’s sable if |\frac{1 + \frac{h\lambda}{2}}{1-\frac{h\lambda}{2}}| \leq 1 for every \lambda as Eigenvalue.</description>
-    <pubDate>Tue, 13 May 2025 17:18:46 GMT</pubDate>
+    <title>exact equations</title>
+    <link>https://ikuyo.dev/math-notes/DifferentialEquation/CH2/exact-equations</link>
+    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/CH2/exact-equations</guid>
+    <description>For a differential equation M(x,y)dx + N(x,y)dy = 0 we will say it’s exact if and only if \frac{\partial M}{dy} = \frac{\partial N}{dx}.</description>
+    <pubDate>Thu, 15 May 2025 17:27:54 GMT</pubDate>
   </item><item>
-    <title>Forward Euler</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/Forward-Euler</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/Forward-Euler</guid>
-    <description>Definition y_{k+1} = y_k + \Delta tf(t_k,y_k) when it’s linear, we can say y_{k + 1} = y_k + \Delta t\lambda y_k = y_k(1 + \Delta t\lambda) Stability It’s stable only if all \lambda: |1 + h\lambda_i| \leq 1.</description>
-    <pubDate>Tue, 13 May 2025 11:31:29 GMT</pubDate>
+    <title>variation of parameters</title>
+    <link>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/variation-of-parameters</link>
+    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/variation-of-parameters</guid>
+    <description>\begin{equation*}\begin{aligned} y&#039; + p(t)y &amp;= 0\\ y&#039;\frac{1}{y} &amp;= - p(t)\\ (\ln|y|)&#039; &amp;= -p(t)\\ y &amp;= Ce^{-\int p(t) dt} \end{aligned}\end{equation*}.</description>
+    <pubDate>Thu, 15 May 2025 17:21:55 GMT</pubDate>
   </item><item>
-    <title>index</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/</guid>
-    <description></description>
-    <pubDate>Tue, 13 May 2025 11:22:23 GMT</pubDate>
+    <title>integrating factor</title>
+    <link>https://ikuyo.dev/math-notes/DifferentialEquation/CH2/integrating-factor</link>
+    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/CH2/integrating-factor</guid>
+    <description>For \frac{dy}{dt} + p(t)y(t) = g(t) consider a \mu(t) that \mu\frac{dy}{dt} + \mu p(t)y(t) = \mu g(t) take \frac{d\mu}{dt} = \mu p(t) \implies \mu = Ce^{p(t)t} therefore, we can turn the equation above to \frac{d}{dt}(\mu y) = \mu g(t) \implies y = \frac{\int \mu g(t) dt + C}{\mu} then plug \mu in a...</description>
+    <pubDate>Thu, 15 May 2025 17:19:01 GMT</pubDate>
   </item><item>
-    <title>Gaussian Quadrature</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/Gaussian-Quadrature</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/Gaussian-Quadrature</guid>
-    <description>implementation evaluation first we need to transform from [-1,1] to [a,b] which required to update points and weights x_i = \frac{b-a}{2} \xi_i + \frac{a+b}{2} where x_i is the new mapped point and \xi_i is the old one w_i = \frac{b-a}{2}w_i I = \int^b_a f dx = \sum\frac{b-a}{2}w_if(x_i) exact for n...</description>
-    <pubDate>Tue, 13 May 2025 11:16:00 GMT</pubDate>
+    <title>fundamental set</title>
+    <link>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/fundamental-set</link>
+    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/fundamental-set</guid>
+    <description>a set of solutions for the specific differential equation every solution should be linear combination of this.</description>
+    <pubDate>Thu, 15 May 2025 17:09:42 GMT</pubDate>
   </item><item>
-    <title>Newton-Cotes Quadrature</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/Newton-Cotes-Quadrature</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/Newton-Cotes-Quadrature</guid>
-    <description>implementation rules Midpoint rule M(f) = (b-a)f(\frac{a + b}{2}) Trapezoidal rule T(f) = \frac{b-a}{2}f(f(a) + f(b)) Simpson’s rule S(f) = \frac{b-a}{6}(f(a) + 5f(m) + f(b)) exact for n node up to n degree.</description>
-    <pubDate>Tue, 13 May 2025 10:56:32 GMT</pubDate>
+    <title>solution difference</title>
+    <link>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/solution-difference</link>
+    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/solution-difference</guid>
+    <description>a technique in solving, theorem 3.5.1 in the book .</description>
+    <pubDate>Thu, 15 May 2025 17:05:35 GMT</pubDate>
   </item><item>
-    <title>Quadrature</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/Quadrature</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/Quadrature</guid>
-    <description>Concept basically \int^b_a f(x) = \sum_i^n w_i(x)f(x_i) stability upper bound |\Delta Q| \leq ||w||_1 \max|\Delta f_i| Implementation Newton-Cotes Quadrature use uniformly spaced nodes, Gaussian Quadrature use optimal picked nodes.</description>
-    <pubDate>Tue, 13 May 2025 10:49:43 GMT</pubDate>
-  </item><item>
-    <title>basic difference</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/basic-difference</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH8/basic-difference</guid>
-    <description>General f&#039;(x) \approx c_1f(x + h) + c_2f(x) + c_3f(x - h) by Taylor expansion f(x + h) = f(x) + hf&#039;(x) + \frac{h^2}{2!}f&#039;&#039;(x) + \cdots + \frac{h^n}{n!}f^{(n)}(x) f(x - h) = f(x) - hf&#039;(x) + \frac{h^2}{2!}f&#039;&#039;(x) - \cdots + \frac{h^n}{n!}f^{(n)}(x) Forward difference ...</description>
-    <pubDate>Tue, 13 May 2025 09:44:54 GMT</pubDate>
+    <title>repeated root</title>
+    <link>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/repeated-root</link>
+    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/repeated-root</guid>
+    <description>which is a root with has algebraic multiplicity of &gt;1.</description>
+    <pubDate>Thu, 15 May 2025 16:38:18 GMT</pubDate>
   </item>
     </channel>
   </rss>
