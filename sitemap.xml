@@ -1,4 +1,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://ikuyo.dev/math-notes/</loc>
+    <lastmod>2025-03-05T20:55:09.499Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/readme</loc>
+    <lastmod>2025-05-15T15:04:13.997Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/</loc>
+    <lastmod>2025-05-15T15:05:54.940Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/readme</loc>
+    <lastmod>2025-05-15T17:40:22.694Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/recap</loc>
+    <lastmod>2025-05-15T14:49:47.108Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/Recap</loc>
+    <lastmod>2025-03-04T23:16:42.608Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/</loc>
+    <lastmod>2025-03-05T20:55:25.200Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/matrix</loc>
+    <lastmod>2025-05-15T15:57:17.088Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</loc>
+    <lastmod>2025-05-15T15:34:25.315Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/RealAnalysis/</loc>
+    <lastmod>2025-03-05T20:55:38.617Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/RealAnalysis/readme</loc>
+    <lastmod>2025-04-11T22:03:28.504Z</lastmod>
+  </url><url>
     <loc>https://ikuyo.dev/math-notes/DifferentialEquation/CH2/exact-equations</loc>
     <lastmod>2025-05-15T17:27:54.463Z</lastmod>
   </url><url>
@@ -47,15 +80,6 @@
     <loc>https://ikuyo.dev/math-notes/DifferentialEquation/CH9/stability</loc>
     <lastmod>2025-05-15T15:31:44.911Z</lastmod>
   </url><url>
-    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/</loc>
-    <lastmod>2025-05-15T15:05:54.940Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/readme</loc>
-    <lastmod>2025-05-15T17:40:22.694Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/recap</loc>
-    <lastmod>2025-05-15T14:49:47.108Z</lastmod>
-  </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH1/</loc>
     <lastmod>2025-03-06T04:43:44.606Z</lastmod>
   </url><url>
@@ -69,7 +93,7 @@
     <lastmod>2025-03-06T04:26:56.006Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/LU-factorization</loc>
-    <lastmod>2025-04-01T20:45:55.352Z</lastmod>
+    <lastmod>2025-08-11T17:56:03.464Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/Orthogonal-matrix</loc>
     <lastmod>2025-03-06T04:48:13.377Z</lastmod>
@@ -194,36 +218,6 @@
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/level-set</loc>
     <lastmod>2025-04-11T22:24:26.480Z</lastmod>
   </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/BFGS-Method</loc>
-    <lastmod>2025-04-24T18:04:45.829Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/Conjugate-Gradient-Method</loc>
-    <lastmod>2025-04-24T23:30:34.727Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/Gauss-Newton-Method</loc>
-    <lastmod>2025-04-12T01:42:09.086Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/Levenberg-Marquardt-method</loc>
-    <lastmod>2025-04-12T01:52:33.855Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/Newton's-method</loc>
-    <lastmod>2025-04-12T01:29:25.726Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/Nonlinear-Least-Squares</loc>
-    <lastmod>2025-05-15T14:43:52.711Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/Steepest-Descent-Method</loc>
-    <lastmod>2025-04-24T23:26:00.037Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/single/Golden-Section-Search</loc>
-    <lastmod>2025-04-12T00:16:11.001Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/single/Newton%E2%80%99s-method</loc>
-    <lastmod>2025-04-12T00:34:40.069Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/single/Successive-Parabolic-Interpolation</loc>
-    <lastmod>2025-04-12T00:17:40.173Z</lastmod>
-  </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/unimodal</loc>
     <lastmod>2025-04-12T00:08:51.047Z</lastmod>
   </url><url>
@@ -290,21 +284,6 @@
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH9/</loc>
     <lastmod>2025-05-13T11:22:23.938Z</lastmod>
   </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/Recap</loc>
-    <lastmod>2025-03-04T23:16:42.608Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/</loc>
-    <lastmod>2025-03-05T20:55:25.200Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/matrix</loc>
-    <lastmod>2025-05-15T15:57:17.088Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</loc>
-    <lastmod>2025-05-15T15:34:25.315Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/RealAnalysis/</loc>
-    <lastmod>2025-03-05T20:55:38.617Z</lastmod>
-  </url><url>
     <loc>https://ikuyo.dev/math-notes/RealAnalysis/integrableAndDiff/Darboux-integral</loc>
     <lastmod>2024-12-16T20:54:10.892Z</lastmod>
   </url><url>
@@ -331,18 +310,6 @@
   </url><url>
     <loc>https://ikuyo.dev/math-notes/RealAnalysis/integrableAndDiff/partition</loc>
     <lastmod>2024-11-14T00:15:00.325Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/RealAnalysis/integrableAndDiff/proofs/Final-Review-problems</loc>
-    <lastmod>2024-12-17T17:31:45.253Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/RealAnalysis/integrableAndDiff/proofs/Problem-of-class-38</loc>
-    <lastmod>2024-12-17T17:03:19.328Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/RealAnalysis/integrableAndDiff/proofs/Proofs-of-pi</loc>
-    <lastmod>2024-12-17T17:07:33.711Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/RealAnalysis/readme</loc>
-    <lastmod>2025-04-11T22:03:28.504Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/RealAnalysis/sequences/Cauchy-sequence</loc>
     <lastmod>2024-10-28T16:40:14.390Z</lastmod>
@@ -401,21 +368,6 @@
     <loc>https://ikuyo.dev/math-notes/RealAnalysis/sequences/path-connected</loc>
     <lastmod>2024-10-21T02:34:08.950Z</lastmod>
   </url><url>
-    <loc>https://ikuyo.dev/math-notes/RealAnalysis/sequences/proofs/3-lemmas-of-class-28</loc>
-    <lastmod>2024-10-23T20:46:36.019Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/RealAnalysis/sequences/proofs/Practice-of-exam-2</loc>
-    <lastmod>2024-11-14T00:09:21.036Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/RealAnalysis/sequences/proofs/Problem-of-OH-after-class-28</loc>
-    <lastmod>2024-10-24T23:49:40.010Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/RealAnalysis/sequences/proofs/proof-of-Thm-15.1</loc>
-    <lastmod>2024-11-14T00:09:21.039Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/RealAnalysis/sequences/proofs/proof-of-Thm-21.7</loc>
-    <lastmod>2024-10-28T16:37:20.342Z</lastmod>
-  </url><url>
     <loc>https://ikuyo.dev/math-notes/RealAnalysis/sequences/sequentially-Closed</loc>
     <lastmod>2024-10-23T20:38:11.237Z</lastmod>
   </url><url>
@@ -437,9 +389,57 @@
     <loc>https://ikuyo.dev/math-notes/RealAnalysis/sequences/uniformly-continue</loc>
     <lastmod>2024-11-22T18:21:16.453Z</lastmod>
   </url><url>
-    <loc>https://ikuyo.dev/math-notes/</loc>
-    <lastmod>2025-03-05T20:55:09.499Z</lastmod>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/BFGS-Method</loc>
+    <lastmod>2025-04-24T18:04:45.829Z</lastmod>
   </url><url>
-    <loc>https://ikuyo.dev/math-notes/readme</loc>
-    <lastmod>2025-05-15T15:04:13.997Z</lastmod>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/Conjugate-Gradient-Method</loc>
+    <lastmod>2025-04-24T23:30:34.727Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/Gauss-Newton-Method</loc>
+    <lastmod>2025-04-12T01:42:09.086Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/Levenberg-Marquardt-method</loc>
+    <lastmod>2025-04-12T01:52:33.855Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/Newton's-method</loc>
+    <lastmod>2025-04-12T01:29:25.726Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/Nonlinear-Least-Squares</loc>
+    <lastmod>2025-05-15T14:43:52.711Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/Steepest-Descent-Method</loc>
+    <lastmod>2025-04-24T23:26:00.037Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/single/Golden-Section-Search</loc>
+    <lastmod>2025-04-12T00:16:11.001Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/single/Newton%E2%80%99s-method</loc>
+    <lastmod>2025-04-12T00:34:40.069Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/single/Successive-Parabolic-Interpolation</loc>
+    <lastmod>2025-04-12T00:17:40.173Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/RealAnalysis/integrableAndDiff/proofs/Final-Review-problems</loc>
+    <lastmod>2024-12-17T17:31:45.253Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/RealAnalysis/integrableAndDiff/proofs/Problem-of-class-38</loc>
+    <lastmod>2024-12-17T17:03:19.328Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/RealAnalysis/integrableAndDiff/proofs/Proofs-of-pi</loc>
+    <lastmod>2024-12-17T17:07:33.711Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/RealAnalysis/sequences/proofs/3-lemmas-of-class-28</loc>
+    <lastmod>2024-10-23T20:46:36.019Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/RealAnalysis/sequences/proofs/Practice-of-exam-2</loc>
+    <lastmod>2024-11-14T00:09:21.036Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/RealAnalysis/sequences/proofs/Problem-of-OH-after-class-28</loc>
+    <lastmod>2024-10-24T23:49:40.010Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/RealAnalysis/sequences/proofs/proof-of-Thm-15.1</loc>
+    <lastmod>2024-11-14T00:09:21.039Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/RealAnalysis/sequences/proofs/proof-of-Thm-21.7</loc>
+    <lastmod>2024-10-28T16:37:20.342Z</lastmod>
   </url></urlset>
