@@ -6,6 +6,48 @@
       <description>Last 10 notes on Eritque Arcus Math Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>readme</title>
+    <link>https://ikuyo.dev/math-notes/RealAnalysis/readme</link>
+    <guid>https://ikuyo.dev/math-notes/RealAnalysis/readme</guid>
+    <description><![CDATA[ This note is outcome of Fall 24 Math 444. Elementary Real Analysis in UIUC, taught by professor Marius Junge. ]]></description>
+    <pubDate>Thu, 21 Aug 2025 01:31:00 GMT</pubDate>
+  </item><item>
+    <title>readme</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</guid>
+    <description><![CDATA[ This note is outcome of Spring 25 CS 450. Numerical Analysis in UIUC taught by instructor Paul Fischer. ]]></description>
+    <pubDate>Thu, 21 Aug 2025 01:09:32 GMT</pubDate>
+  </item><item>
+    <title>readme</title>
+    <link>https://ikuyo.dev/math-notes/DifferentialEquation/readme</link>
+    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/readme</guid>
+    <description><![CDATA[ This note is outcome of SP 2025 MATH 441. Differential Equations in UIUC, taught by professor Nikolaos Tzirakis. ]]></description>
+    <pubDate>Thu, 21 Aug 2025 01:08:26 GMT</pubDate>
+  </item><item>
+    <title>readme</title>
+    <link>https://ikuyo.dev/math-notes/readme</link>
+    <guid>https://ikuyo.dev/math-notes/readme</guid>
+    <description><![CDATA[  This part of website are some random notes I made for some advance mathematics courses I took. ]]></description>
+    <pubDate>Thu, 21 Aug 2025 00:50:50 GMT</pubDate>
+  </item><item>
+    <title>complete</title>
+    <link>https://ikuyo.dev/math-notes/RealAnalysis/sequences/complete</link>
+    <guid>https://ikuyo.dev/math-notes/RealAnalysis/sequences/complete</guid>
+    <description><![CDATA[ Def 14.2 A metric space is complete if every Cauchy sequence in X is convergent to some points in the set X. ]]></description>
+    <pubDate>Thu, 21 Aug 2025 00:21:46 GMT</pubDate>
+  </item><item>
+    <title>Chebyshev interpolation</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Chebyshev-interpolation</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Chebyshev-interpolation</guid>
+    <description><![CDATA[ Definition interpolation on top of Chebyshev node Node The selection of node can be: Chebyshev–Gauss: x_j=\cos(\pi\frac{2j + 1}{2n}) Chebyshev–Lobatto etc Implementation it can be implemented by Lagrange Interpolation, orthogonal polynomial interpolation, and etc. ]]></description>
+    <pubDate>Thu, 21 Aug 2025 00:19:12 GMT</pubDate>
+  </item><item>
+    <title>orthogonal polynomial interpolation</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/orthogonal-polynomial-interpolation</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/orthogonal-polynomial-interpolation</guid>
+    <description><![CDATA[ Concept basically in order to use orthogonal polynomial for interpolation, we setup the orthogonal polynomial coefficient matrix with selected polynomials and solve it for coefficients. ]]></description>
+    <pubDate>Thu, 21 Aug 2025 00:18:51 GMT</pubDate>
+  </item><item>
     <title>LU factorization</title>
     <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/LU-factorization</link>
     <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/LU-factorization</guid>
@@ -23,48 +65,6 @@
     <guid>https://ikuyo.dev/math-notes/DifferentialEquation/CH4/Abel's-identity</guid>
     <description><![CDATA[ for y&#039;&#039; + p(t) y&#039; + q(t) y = 0 W(t) = W(y_1, \dots, y_n)(t) = c e^{-\int p(t)dt} where W is Wronskian determinant and c is a constant by W at convenient point. ]]></description>
     <pubDate>Thu, 15 May 2025 17:40:57 GMT</pubDate>
-  </item><item>
-    <title>readme</title>
-    <link>https://ikuyo.dev/math-notes/DifferentialEquation/readme</link>
-    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/readme</guid>
-    <description><![CDATA[ This note is outcome of SP 2025 MATH 441. Differential Equations in UIUC, taught by professor Nikolaos Tzirakis. ]]></description>
-    <pubDate>Thu, 15 May 2025 17:40:22 GMT</pubDate>
-  </item><item>
-    <title>reduction of Order</title>
-    <link>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/reduction-of-Order</link>
-    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/reduction-of-Order</guid>
-    <description><![CDATA[ find another linearly independent solution based on a known solution known y_1(t) as solution, take y_2(t) = u(t)y_1(t) as new solution. ]]></description>
-    <pubDate>Thu, 15 May 2025 17:35:32 GMT</pubDate>
-  </item><item>
-    <title>exact equations</title>
-    <link>https://ikuyo.dev/math-notes/DifferentialEquation/CH2/exact-equations</link>
-    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/CH2/exact-equations</guid>
-    <description><![CDATA[ For a differential equation M(x,y)dx + N(x,y)dy = 0 we will say it’s exact if and only if \frac{\partial M}{dy} = \frac{\partial N}{dx}. ]]></description>
-    <pubDate>Thu, 15 May 2025 17:27:54 GMT</pubDate>
-  </item><item>
-    <title>variation of parameters</title>
-    <link>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/variation-of-parameters</link>
-    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/variation-of-parameters</guid>
-    <description><![CDATA[ \begin{equation*}\begin{aligned} y&#039; + p(t)y &amp;= 0\\ y&#039;\frac{1}{y} &amp;= - p(t)\\ (\ln|y|)&#039; &amp;= -p(t)\\ y &amp;= Ce^{-\int p(t) dt} \end{aligned}\end{equation*}. ]]></description>
-    <pubDate>Thu, 15 May 2025 17:21:55 GMT</pubDate>
-  </item><item>
-    <title>integrating factor</title>
-    <link>https://ikuyo.dev/math-notes/DifferentialEquation/CH2/integrating-factor</link>
-    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/CH2/integrating-factor</guid>
-    <description><![CDATA[ For \frac{dy}{dt} + p(t)y(t) = g(t) consider a \mu(t) that \mu\frac{dy}{dt} + \mu p(t)y(t) = \mu g(t) take \frac{d\mu}{dt} = \mu p(t) \implies \mu = Ce^{p(t)t} therefore, we can turn the equation above to \frac{d}{dt}(\mu y) = \mu g(t) \implies y = \frac{\int \mu g(t) dt + C}{\mu} then plug \mu in a... ]]></description>
-    <pubDate>Thu, 15 May 2025 17:19:01 GMT</pubDate>
-  </item><item>
-    <title>fundamental set</title>
-    <link>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/fundamental-set</link>
-    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/fundamental-set</guid>
-    <description><![CDATA[ a set of solutions for the specific differential equation every solution should be linear combination of this. ]]></description>
-    <pubDate>Thu, 15 May 2025 17:09:42 GMT</pubDate>
-  </item><item>
-    <title>solution difference</title>
-    <link>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/solution-difference</link>
-    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/CH3/solution-difference</guid>
-    <description><![CDATA[ a technique in solving, theorem 3.5.1 in the book . ]]></description>
-    <pubDate>Thu, 15 May 2025 17:05:35 GMT</pubDate>
   </item>
     </channel>
   </rss>
