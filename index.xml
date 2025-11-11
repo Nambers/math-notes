@@ -6,65 +6,65 @@
       <description>Last 10 notes on Eritque Arcus Math Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>readme</title>
-    <link>https://ikuyo.dev/math-notes/RealAnalysis/readme</link>
-    <guid>https://ikuyo.dev/math-notes/RealAnalysis/readme</guid>
-    <description><![CDATA[ This note is outcome of Fall 24 Math 444. Elementary Real Analysis in UIUC, taught by professor Marius Junge. ]]></description>
-    <pubDate>Thu, 21 Aug 2025 01:31:00 GMT</pubDate>
+    <title>Tarjan</title>
+    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Tarjan</link>
+    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Tarjan</guid>
+    <description><![CDATA[ To mark strong components. ]]></description>
+    <pubDate>Tue, 11 Nov 2025 09:09:03 GMT</pubDate>
+  </item><item>
+    <title>Topological sort</title>
+    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Topological-sort</link>
+    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Topological-sort</guid>
+    <description><![CDATA[  Note 1: it’s not possible to do topological order for non DAG graph Note 2: there can be multiple topological order Backward implementation by DFS pseudo-code \begin{algorithm} \caption{topologicalSort} \begin{algorithmic} \Function{DFS}{$s, clock, S$} \State s.state $\gets$ active \ForAll{edge $u ... ]]></description>
+    <pubDate>Tue, 11 Nov 2025 09:08:22 GMT</pubDate>
+  </item><item>
+    <title>Dijkstra</title>
+    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Dijkstra</link>
+    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Dijkstra</guid>
+    <description><![CDATA[ For shortest walk in weighted DAG. ]]></description>
+    <pubDate>Tue, 11 Nov 2025 00:17:31 GMT</pubDate>
+  </item><item>
+    <title>DAG SSSP</title>
+    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/DAG-SSSP</link>
+    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/DAG-SSSP</guid>
+    <description><![CDATA[ To find shortest walk in DAG, can has negative weighted edges. Pseudo-code Runtime O(|V| + |E|). ]]></description>
+    <pubDate>Tue, 11 Nov 2025 00:13:16 GMT</pubDate>
+  </item><item>
+    <title>Bellman-Ford</title>
+    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Bellman-Ford</link>
+    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Bellman-Ford</guid>
+    <description><![CDATA[ Find the shortest walk with negative weighted edges, but not cycle. ]]></description>
+    <pubDate>Mon, 10 Nov 2025 23:48:15 GMT</pubDate>
   </item><item>
     <title>readme</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</guid>
-    <description><![CDATA[ This note is outcome of Spring 25 CS 450. Numerical Analysis in UIUC taught by instructor Paul Fischer. ]]></description>
-    <pubDate>Thu, 21 Aug 2025 01:09:32 GMT</pubDate>
+    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/readme</link>
+    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/readme</guid>
+    <description><![CDATA[ This note is outcome of Fall 25 CS 374. Intro to Algs &amp; Models of Comp in UIUC, taught by professor Emily Fox and Jeff Erickson. ]]></description>
+    <pubDate>Mon, 10 Nov 2025 23:35:57 GMT</pubDate>
   </item><item>
-    <title>readme</title>
-    <link>https://ikuyo.dev/math-notes/DifferentialEquation/readme</link>
-    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/readme</guid>
-    <description><![CDATA[ This note is outcome of SP 2025 MATH 441. Differential Equations in UIUC, taught by professor Nikolaos Tzirakis. ]]></description>
-    <pubDate>Thu, 21 Aug 2025 01:08:26 GMT</pubDate>
+    <title>Master Theorem</title>
+    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/timeComplexity/Master-Theorem</link>
+    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/timeComplexity/Master-Theorem</guid>
+    <description><![CDATA[ For T(n) = aT(\frac{n}{b}) + f(n) Consider f(n) = O(n^c) If c \leq \log_b a, T(n) = \Theta(n^{\log_b a}) If c = \log_b a, T(n) = \Theta(n^c \log n) If c &gt; \log_b a \land (\exists k &lt; 1) (af(\frac{n}{b}) \leq kf(n)), T(n) = \Theta(f(n)) . ]]></description>
+    <pubDate>Mon, 10 Nov 2025 23:35:06 GMT</pubDate>
   </item><item>
-    <title>readme</title>
-    <link>https://ikuyo.dev/math-notes/readme</link>
-    <guid>https://ikuyo.dev/math-notes/readme</guid>
-    <description><![CDATA[  This part of website are some random notes I made for some advance mathematics courses I took. ]]></description>
-    <pubDate>Thu, 21 Aug 2025 00:50:50 GMT</pubDate>
+    <title>terminologies</title>
+    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/terminologies</link>
+    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/terminologies</guid>
+    <description><![CDATA[ Directed acrylic graph known as DAG, a directed graph without any cycle. ]]></description>
+    <pubDate>Mon, 10 Nov 2025 07:14:02 GMT</pubDate>
   </item><item>
-    <title>complete</title>
-    <link>https://ikuyo.dev/math-notes/RealAnalysis/sequences/complete</link>
-    <guid>https://ikuyo.dev/math-notes/RealAnalysis/sequences/complete</guid>
-    <description><![CDATA[ Def 14.2 A metric space is complete if every Cauchy sequence in X is convergent to some points in the set X. ]]></description>
-    <pubDate>Thu, 21 Aug 2025 00:21:46 GMT</pubDate>
+    <title>Kosaraju and Sharir</title>
+    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Kosaraju-and-Sharir</link>
+    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Kosaraju-and-Sharir</guid>
+    <description><![CDATA[ For marking strong components. ]]></description>
+    <pubDate>Mon, 10 Nov 2025 07:10:53 GMT</pubDate>
   </item><item>
-    <title>Chebyshev interpolation</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Chebyshev-interpolation</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/Chebyshev-interpolation</guid>
-    <description><![CDATA[ Definition interpolation on top of Chebyshev node Node The selection of node can be: Chebyshev–Gauss: x_j=\cos(\pi\frac{2j + 1}{2n}) Chebyshev–Lobatto etc Implementation it can be implemented by Lagrange Interpolation, orthogonal polynomial interpolation, and etc. ]]></description>
-    <pubDate>Thu, 21 Aug 2025 00:19:12 GMT</pubDate>
-  </item><item>
-    <title>orthogonal polynomial interpolation</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/orthogonal-polynomial-interpolation</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH7/orthogonal-polynomial-interpolation</guid>
-    <description><![CDATA[ Concept basically in order to use orthogonal polynomial for interpolation, we setup the orthogonal polynomial coefficient matrix with selected polynomials and solve it for coefficients. ]]></description>
-    <pubDate>Thu, 21 Aug 2025 00:18:51 GMT</pubDate>
-  </item><item>
-    <title>LU factorization</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/LU-factorization</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/LU-factorization</guid>
-    <description><![CDATA[ factorizing by A = LU where L is lower triangular and U is upper triangular matrix. ]]></description>
-    <pubDate>Mon, 11 Aug 2025 17:56:03 GMT</pubDate>
-  </item><item>
-    <title>systems of first order ODEs</title>
-    <link>https://ikuyo.dev/math-notes/DifferentialEquation/CH7/systems-of-first-order-ODEs</link>
-    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/CH7/systems-of-first-order-ODEs</guid>
-    <description><![CDATA[ \vec x&#039; = A\vec x briefly we need to find all Eigenvectors: find all Eigenvalues of the coefficient matrix A by solving \det(A - \lambda I) for each \lambda_i find (A - \lambda_i I)\vec \xi_i = \vec 0 where I is identify matrix and \vec\xi_i is correspond Eigenvector if the \lambda_i is repeate... ]]></description>
-    <pubDate>Thu, 15 May 2025 18:25:57 GMT</pubDate>
-  </item><item>
-    <title>Abel&#039;s identity</title>
-    <link>https://ikuyo.dev/math-notes/DifferentialEquation/CH4/Abel's-identity</link>
-    <guid>https://ikuyo.dev/math-notes/DifferentialEquation/CH4/Abel's-identity</guid>
-    <description><![CDATA[ for y&#039;&#039; + p(t) y&#039; + q(t) y = 0 W(t) = W(y_1, \dots, y_n)(t) = c e^{-\int p(t)dt} where W is Wronskian determinant and c is a constant by W at convenient point. ]]></description>
-    <pubDate>Thu, 15 May 2025 17:40:57 GMT</pubDate>
+    <title>Depth-first search</title>
+    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Depth-first-search</link>
+    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Depth-first-search</guid>
+    <description><![CDATA[ To find shortest walk. ]]></description>
+    <pubDate>Mon, 10 Nov 2025 06:51:10 GMT</pubDate>
   </item>
     </channel>
   </rss>
