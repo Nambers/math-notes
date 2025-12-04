@@ -6,65 +6,65 @@
       <description>Last 10 notes on Eritque Arcus Math Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Topological sort</title>
+    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Topological-sort</link>
+    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Topological-sort</guid>
+    <description><![CDATA[  Note 1: it’s not possible to do topological order for non DAG graph Note 2: there can be multiple topological order Backward implementation by DFS pseudo-code #import &quot;@preview/algo:0.3.6&quot;: algo, i, d, comment, code #let sc(body) = {smallcaps(text(font:&quot;&quot;)[#body])} #algo( title:... ]]></description>
+    <pubDate>Thu, 04 Dec 2025 10:09:14 GMT</pubDate>
+  </item><item>
     <title>Tarjan</title>
     <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Tarjan</link>
     <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Tarjan</guid>
     <description><![CDATA[ To mark strong components. ]]></description>
-    <pubDate>Tue, 11 Nov 2025 09:09:03 GMT</pubDate>
-  </item><item>
-    <title>Topological sort</title>
-    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Topological-sort</link>
-    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Topological-sort</guid>
-    <description><![CDATA[  Note 1: it’s not possible to do topological order for non DAG graph Note 2: there can be multiple topological order Backward implementation by DFS pseudo-code \begin{algorithm} \caption{topologicalSort} \begin{algorithmic} \Function{DFS}{$s, clock, S$} \State s.state $\gets$ active \ForAll{edge $u ... ]]></description>
-    <pubDate>Tue, 11 Nov 2025 09:08:22 GMT</pubDate>
-  </item><item>
-    <title>Dijkstra</title>
-    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Dijkstra</link>
-    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Dijkstra</guid>
-    <description><![CDATA[ For shortest walk in weighted DAG. ]]></description>
-    <pubDate>Tue, 11 Nov 2025 00:17:31 GMT</pubDate>
-  </item><item>
-    <title>DAG SSSP</title>
-    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/DAG-SSSP</link>
-    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/DAG-SSSP</guid>
-    <description><![CDATA[ To find shortest walk in DAG, can has negative weighted edges. Pseudo-code Runtime O(|V| + |E|). ]]></description>
-    <pubDate>Tue, 11 Nov 2025 00:13:16 GMT</pubDate>
-  </item><item>
-    <title>Bellman-Ford</title>
-    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Bellman-Ford</link>
-    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Bellman-Ford</guid>
-    <description><![CDATA[ Find the shortest walk with negative weighted edges, but not cycle. ]]></description>
-    <pubDate>Mon, 10 Nov 2025 23:48:15 GMT</pubDate>
-  </item><item>
-    <title>readme</title>
-    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/readme</link>
-    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/readme</guid>
-    <description><![CDATA[ This note is outcome of Fall 25 CS 374. Intro to Algs &amp; Models of Comp in UIUC, taught by professor Emily Fox and Jeff Erickson. ]]></description>
-    <pubDate>Mon, 10 Nov 2025 23:35:57 GMT</pubDate>
-  </item><item>
-    <title>Master Theorem</title>
-    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/timeComplexity/Master-Theorem</link>
-    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/timeComplexity/Master-Theorem</guid>
-    <description><![CDATA[ For T(n) = aT(\frac{n}{b}) + f(n) Consider f(n) = O(n^c) If c \leq \log_b a, T(n) = \Theta(n^{\log_b a}) If c = \log_b a, T(n) = \Theta(n^c \log n) If c &gt; \log_b a \land (\exists k &lt; 1) (af(\frac{n}{b}) \leq kf(n)), T(n) = \Theta(f(n)) . ]]></description>
-    <pubDate>Mon, 10 Nov 2025 23:35:06 GMT</pubDate>
-  </item><item>
-    <title>terminologies</title>
-    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/terminologies</link>
-    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/terminologies</guid>
-    <description><![CDATA[ Directed acrylic graph known as DAG, a directed graph without any cycle. ]]></description>
-    <pubDate>Mon, 10 Nov 2025 07:14:02 GMT</pubDate>
+    <pubDate>Thu, 04 Dec 2025 10:08:09 GMT</pubDate>
   </item><item>
     <title>Kosaraju and Sharir</title>
     <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Kosaraju-and-Sharir</link>
     <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Kosaraju-and-Sharir</guid>
     <description><![CDATA[ For marking strong components. ]]></description>
-    <pubDate>Mon, 10 Nov 2025 07:10:53 GMT</pubDate>
+    <pubDate>Thu, 04 Dec 2025 10:05:37 GMT</pubDate>
+  </item><item>
+    <title>Dijkstra</title>
+    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Dijkstra</link>
+    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Dijkstra</guid>
+    <description><![CDATA[ For shortest walk in weighted DAG. ]]></description>
+    <pubDate>Thu, 04 Dec 2025 10:03:44 GMT</pubDate>
   </item><item>
     <title>Depth-first search</title>
     <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Depth-first-search</link>
     <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Depth-first-search</guid>
     <description><![CDATA[ To find shortest walk. ]]></description>
-    <pubDate>Mon, 10 Nov 2025 06:51:10 GMT</pubDate>
+    <pubDate>Thu, 04 Dec 2025 10:02:34 GMT</pubDate>
+  </item><item>
+    <title>Breath-first search</title>
+    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Breath-first-search</link>
+    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Breath-first-search</guid>
+    <description><![CDATA[ To find shortest walk. ]]></description>
+    <pubDate>Thu, 04 Dec 2025 10:01:21 GMT</pubDate>
+  </item><item>
+    <title>Bellman-Ford</title>
+    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Bellman-Ford</link>
+    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Bellman-Ford</guid>
+    <description><![CDATA[ Find the shortest walk with negative weighted edges, but not cycle. ]]></description>
+    <pubDate>Thu, 04 Dec 2025 09:57:08 GMT</pubDate>
+  </item><item>
+    <title>Newton&#039;s method</title>
+    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/Newton's-method</link>
+    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/Newton's-method</guid>
+    <description><![CDATA[ Concept x_(k + 1) = x_k - H_f^(-1) (x_k) nabla f(x_k) where H is Hessian matrix and nabla is gradient. ]]></description>
+    <pubDate>Thu, 04 Dec 2025 08:58:50 GMT</pubDate>
+  </item><item>
+    <title>differentiable</title>
+    <link>https://ikuyo.dev/math-notes/RealAnalysis/integrableAndDiff/differentiable</link>
+    <guid>https://ikuyo.dev/math-notes/RealAnalysis/integrableAndDiff/differentiable</guid>
+    <description><![CDATA[ Def 31.3 F is differentiable at x if (exists a)(forall epsilon &gt; 0)(exists delta)|x - y| &lt; delta ==&gt;| (F(y) - F(x))/(y - x) - a| &lt; epsilon where we can say a = F&#039;(x) Thm 31.4 differentiable f on (a, b) and f&#039;(x) bounded ==&gt; f is Lipschitz Thm 32.1 Fundamental Theorem integra... ]]></description>
+    <pubDate>Thu, 04 Dec 2025 08:58:40 GMT</pubDate>
+  </item><item>
+    <title>continue</title>
+    <link>https://ikuyo.dev/math-notes/RealAnalysis/sequences/continue</link>
+    <guid>https://ikuyo.dev/math-notes/RealAnalysis/sequences/continue</guid>
+    <description><![CDATA[ Def 16.1 f is continue imply d(x, x&#039;) &lt; epsilon ==&gt; d(f(x), f(x&#039;)) &lt; epsilon Thm 16.2 f is continue at x &lt;==&gt; (lim_n x_n = x ==&gt; lim_n f(x_n) = f(x)) Thm 16.3 17.2 f : x --&gt; y TFAE f is continuous it’s inverse image f^(-1)(O) is open for all open image O Thm 17.5 A Met... ]]></description>
+    <pubDate>Thu, 04 Dec 2025 08:58:32 GMT</pubDate>
   </item>
     </channel>
   </rss>
