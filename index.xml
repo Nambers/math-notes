@@ -6,6 +6,30 @@
       <description>Last 10 notes on Eritque Arcus Math Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>The Poetic Edda</title>
+    <link>https://ikuyo.dev/math-notes/MedievalLiteratureAndCulture/lit/The-Poetic-Edda</link>
+    <guid>https://ikuyo.dev/math-notes/MedievalLiteratureAndCulture/lit/The-Poetic-Edda</guid>
+    <description><![CDATA[ It mainly separate to two parts: poems about gods and human heroes. ]]></description>
+    <pubDate>Sun, 03 May 2026 01:41:25 GMT</pubDate>
+  </item><item>
+    <title>readme</title>
+    <link>https://ikuyo.dev/math-notes/readme</link>
+    <guid>https://ikuyo.dev/math-notes/readme</guid>
+    <description><![CDATA[  This part of website are some random notes I made for some advance mathematics courses I took. ]]></description>
+    <pubDate>Sat, 25 Apr 2026 05:21:19 GMT</pubDate>
+  </item><item>
+    <title>Byzantine</title>
+    <link>https://ikuyo.dev/math-notes/MedievalLiteratureAndCulture/Byzantine</link>
+    <guid>https://ikuyo.dev/math-notes/MedievalLiteratureAndCulture/Byzantine</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 25 Apr 2026 01:42:28 GMT</pubDate>
+  </item><item>
+    <title>readme</title>
+    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/readme</link>
+    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/readme</guid>
+    <description><![CDATA[ This note is outcome of Fall 25 CS 374. Intro to Algs &amp; Models of Comp in UIUC, taught by professor Emily Fox and Jeff Erickson. ]]></description>
+    <pubDate>Fri, 12 Dec 2025 00:25:42 GMT</pubDate>
+  </item><item>
     <title>Topological sort</title>
     <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Topological-sort</link>
     <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Topological-sort</guid>
@@ -41,30 +65,6 @@
     <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Bellman-Ford</guid>
     <description><![CDATA[ Find the shortest walk with negative weighted edges, but not cycle. ]]></description>
     <pubDate>Sat, 06 Dec 2025 00:13:28 GMT</pubDate>
-  </item><item>
-    <title>Breath-first search</title>
-    <link>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Breath-first-search</link>
-    <guid>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/graph/algorithms/Breath-first-search</guid>
-    <description><![CDATA[ To find shortest walk. ]]></description>
-    <pubDate>Sat, 06 Dec 2025 00:12:53 GMT</pubDate>
-  </item><item>
-    <title>Cholesky factorization</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/Cholesky-factorization</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/Cholesky-factorization</guid>
-    <description><![CDATA[ This is a special case for LU factorization (U = L^T). ]]></description>
-    <pubDate>Thu, 04 Dec 2025 17:59:51 GMT</pubDate>
-  </item><item>
-    <title>Newton&#039;s method</title>
-    <link>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/Newton's-method</link>
-    <guid>https://ikuyo.dev/math-notes/NumericalAnalysis/CH6/multi/Newton's-method</guid>
-    <description><![CDATA[ Concept x_(k + 1) = x_k - H_f^(-1) (x_k) nabla f(x_k) where H is Hessian matrix and nabla is gradient. ]]></description>
-    <pubDate>Thu, 04 Dec 2025 08:58:50 GMT</pubDate>
-  </item><item>
-    <title>differentiable</title>
-    <link>https://ikuyo.dev/math-notes/RealAnalysis/integrableAndDiff/differentiable</link>
-    <guid>https://ikuyo.dev/math-notes/RealAnalysis/integrableAndDiff/differentiable</guid>
-    <description><![CDATA[ Def 31.3 F is differentiable at x if (exists a)(forall epsilon &gt; 0)(exists delta)|x - y| &lt; delta ==&gt;| (F(y) - F(x))/(y - x) - a| &lt; epsilon where we can say a = F&#039;(x) Thm 31.4 differentiable f on (a, b) and f&#039;(x) bounded ==&gt; f is Lipschitz Thm 32.1 Fundamental Theorem integra... ]]></description>
-    <pubDate>Thu, 04 Dec 2025 08:58:40 GMT</pubDate>
   </item>
     </channel>
   </rss>

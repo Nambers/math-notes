@@ -47,6 +47,9 @@
     <loc>https://ikuyo.dev/math-notes/DifferentialEquation/CH9/stability</loc>
     <lastmod>2025-05-15T15:31:44.911Z</lastmod>
   </url><url>
+    <loc>https://ikuyo.dev/math-notes/DifferentialEquation/</loc>
+    <lastmod>2025-05-15T15:05:54.940Z</lastmod>
+  </url><url>
     <loc>https://ikuyo.dev/math-notes/DifferentialEquation/readme</loc>
     <lastmod>2025-08-21T01:08:26.182Z</lastmod>
   </url><url>
@@ -81,10 +84,13 @@
     <lastmod>2025-12-04T08:33:57.708Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/readme</loc>
-    <lastmod>2025-11-10T23:35:57.078Z</lastmod>
+    <lastmod>2025-12-12T00:25:42.219Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/IntroToAlgs-and-ModelsOfComp/timeComplexity/Master-Theorem</loc>
     <lastmod>2025-12-04T08:34:03.229Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/MedievalLiteratureAndCulture/Byzantine</loc>
+    <lastmod>2026-04-25T01:42:28.851Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/MedievalLiteratureAndCulture/Central-Middle-Age</loc>
     <lastmod>2025-08-28T15:36:30.819Z</lastmod>
@@ -102,7 +108,7 @@
     <lastmod>2025-11-09T23:42:23.395Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/MedievalLiteratureAndCulture/lit/The-Poetic-Edda</loc>
-    <lastmod>2025-11-10T00:26:02.575Z</lastmod>
+    <lastmod>2026-05-03T01:41:25.384Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/MedievalLiteratureAndCulture/lit/Voyage-of-Saint-Brendan</loc>
     <lastmod>2025-11-09T23:40:31.733Z</lastmod>
@@ -133,6 +139,9 @@
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/Symmetric-positive-definite-matrix</loc>
     <lastmod>2025-12-04T07:41:20.830Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH2/</loc>
+    <lastmod>2025-03-06T04:43:37.151Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH3/Hessenberg-matrix</loc>
     <lastmod>2025-12-04T07:19:36.381Z</lastmod>
@@ -175,6 +184,9 @@
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH4/deflation</loc>
     <lastmod>2025-12-04T07:46:53.074Z</lastmod>
+  </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH4/</loc>
+    <lastmod>2025-03-06T21:01:43.019Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/CH4/inverse-iteration</loc>
     <lastmod>2025-12-04T07:47:38.590Z</lastmod>
@@ -344,17 +356,17 @@
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/Recap</loc>
     <lastmod>2025-12-04T07:52:10.443Z</lastmod>
   </url><url>
+    <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/</loc>
+    <lastmod>2025-03-05T20:55:25.200Z</lastmod>
+  </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/matrix</loc>
     <lastmod>2025-12-04T07:51:59.778Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/NumericalAnalysis/readme</loc>
     <lastmod>2025-08-21T01:09:32.455Z</lastmod>
   </url><url>
-    <loc>https://ikuyo.dev/math-notes/OperatingSystemDesign/Kernel-Extension</loc>
-    <lastmod>2025-12-04T06:40:09.235Z</lastmod>
-  </url><url>
-    <loc>https://ikuyo.dev/math-notes/OperatingSystemDesign/readme</loc>
-    <lastmod>2025-12-04T06:39:06.983Z</lastmod>
+    <loc>https://ikuyo.dev/math-notes/RealAnalysis/</loc>
+    <lastmod>2025-03-05T20:55:38.617Z</lastmod>
   </url><url>
     <loc>https://ikuyo.dev/math-notes/RealAnalysis/integrableAndDiff/Darboux-integral</loc>
     <lastmod>2025-12-04T08:19:23.504Z</lastmod>
@@ -488,6 +500,9 @@
     <loc>https://ikuyo.dev/math-notes/RealAnalysis/sequences/uniformly-continue</loc>
     <lastmod>2025-12-04T08:27:07.716Z</lastmod>
   </url><url>
+    <loc>https://ikuyo.dev/math-notes/</loc>
+    <lastmod>2025-03-05T20:55:09.499Z</lastmod>
+  </url><url>
     <loc>https://ikuyo.dev/math-notes/readme</loc>
-    <lastmod>2025-11-10T00:18:49.171Z</lastmod>
+    <lastmod>2026-04-25T05:21:19.532Z</lastmod>
   </url></urlset>
